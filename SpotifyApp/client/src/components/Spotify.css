@@ -27,3 +27,16 @@
      
   }
   
+
+  @media screen and (max-width:650px ){
+
+   
+    .spotify-search-container{
+         width: 100%;
+        
+    }
+
+    .ButtonColor{
+        margin-top: 15px;
+    }
+  }
